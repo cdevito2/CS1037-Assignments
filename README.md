@@ -3,3 +3,4 @@ various assignments i have completed
 Includes:
 Bitmap Picture Drawer
 Rock-Paper-Scissors
+Command Line Calculator
